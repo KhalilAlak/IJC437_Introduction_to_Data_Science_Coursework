@@ -1,9 +1,3 @@
-Perfect — this is a great moment to make your **README.md** look professional and informative.
-Your README is like the **front door** of your project — both your lecturer and future employers will look at it first on GitHub.
-
-Below is a **ready-to-use template** specifically tailored to **your project (Local Industries & Jobs Analysis – IJC437)**
-You can **copy and paste** it directly into your `README.md` file — and then replace placeholders like `<your_name>` and `<your_github_username>` 👇
-
 ---
 
 # 🏭 Local Industries and Jobs Analysis (Yorkshire & Humber, 2013–2023)
@@ -99,3 +93,4 @@ IJC437_Local_Industry_Analysis/
 ### 📅 Deadline
 
 **22 January 2026, 1:00 PM**
+
