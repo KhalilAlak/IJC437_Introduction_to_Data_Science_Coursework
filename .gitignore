@@ -1,0 +1,24 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Data (keep raw local, don’t push if large/sensitive)
+data/raw/*
+!data/raw/.gitkeep
+
+# Optional: keep processed local too if large
+# data/processed/*
+
+# Outputs (you can choose to commit final figs only)
+outputs/plots/*
+outputs/tables/*
+
+# Quarto/knitr caches
+_cache/
+*.utf8.md
