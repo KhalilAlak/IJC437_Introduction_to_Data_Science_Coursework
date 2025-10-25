@@ -3,6 +3,7 @@
 ### 📘 IJC437 – Introduction to Data Science (University of Sheffield)
 
 **Author:** Khalil Alakbarzade
+
 **GitHub:** (https://github.com/KhalilAlak)
 
 **Supervisor:** Dr. S. Mazumdar
@@ -94,6 +95,7 @@ IJC437_Local_Industry_Analysis/
 ### 📅 Deadline
 
 **22 January 2026, 1:00 PM**
+
 
 
 
