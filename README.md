@@ -1,5 +1,3 @@
----
-
 # 🏭 Local Industries and Jobs Analysis (Yorkshire & Humber, 2013–2023)
 
 ### 📘 IJC437 – Introduction to Data Science (University of Sheffield)
@@ -93,4 +91,5 @@ IJC437_Local_Industry_Analysis/
 ### 📅 Deadline
 
 **22 January 2026, 1:00 PM**
+
 
